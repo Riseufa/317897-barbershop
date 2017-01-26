@@ -1,8 +1,11 @@
 body {
-  font-family: PT Sans Narrow;
+  font-family: "PT Sans";
   font-size: 14px;
-  color: #000000;
+  line-height: 24px;
+  
+
 }
-h2 {
+h1 {
   font-size: 30px;
+  line-height: 42px;
 }
